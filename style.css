@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.navbar {
+    height: 4rem;
+    width: 100%;
+    background-color: rgb(51, 124, 250);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+  }
