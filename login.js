@@ -1,7 +1,7 @@
 const email = [];
 const password = [];
 
-function johannesburg() {
+function JHB() {
 
     const email = document.getElementById('Email').value;
     const password = document.getElementById('password').value;
