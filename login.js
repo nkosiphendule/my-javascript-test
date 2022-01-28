@@ -1,15 +1,17 @@
+const email = [];
+const password = [];
+
 function johannesburg() {
 
-    const email = document.getElementById('Email');
-    const display = document.getElementById('display');
+    const email = document.getElementById('Email').value;
+    const password = document.getElementById('password').value;
   
-    display.innerHTML = '';
       }
 
 const employees = [
     {
         address: {
-        email: "“user@gmail.com”",
+        email: "user@gmail.com",
         password: "nkosi",
         }
     },
