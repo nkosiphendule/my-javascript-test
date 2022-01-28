@@ -10,10 +10,8 @@ function JHB() {
 
 const employees = [
     {
-        address: {
-        email: "user@gmail.com",
-        password: "nkosi",
-        }
+        address: {email == && password}
+        
     },
 
 ]
