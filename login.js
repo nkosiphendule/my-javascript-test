@@ -4,7 +4,7 @@ const password = [];
 
 
 
-function JHB() {
+function form() {
     const email = document.getElementById('Email').val;
     const password = document.getElementById("Password").val;
 
