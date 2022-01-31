@@ -1,17 +1,13 @@
 const email = [];
 const password = [];
 
+const email = document.getElementById('Email').val;
+const password = document.getElementById('Password');
+
+
 function JHB() {
 
-    const email = document.getElementById('Email').value;
-    const password = document.getElementById('password').value;
-  
-      }
-
-const employees = [
-    {
-        address: {email == && password}
-        
-    },
-
-]
+        if (display[i].email == "user@gmail.com" && "password") {
+            display.innerHTML += '<li>' + password[i].name + '</li>';
+        }
+    }
